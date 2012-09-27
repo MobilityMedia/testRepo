@@ -1,0 +1,14 @@
+*.iws
+*Db.properties
+*Db.script
+.settings
+.classpath
+*DS_Store
+.link_to_grails_plugins
+eclipse
+stacktrace.log
+target
+target-eclipse
+/plugins
+/web-app/plugins
+/web-app/WEB-INF/classes
