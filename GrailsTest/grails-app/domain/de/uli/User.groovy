@@ -1,7 +1,15 @@
 package de.uli
 
 class User {
-	String name
+	String userName
+	String firstName
+	String lastName
+	String password
+	
+	Date dateCreated
+	Date lastUpdated
+	
+	
     static constraints = {
     }
 	
