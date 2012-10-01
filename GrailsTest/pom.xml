@@ -90,7 +90,7 @@
     </dependencies>
 
     <build>
-    	<sourceDirectory>src/groovy</sourceDirectory>
+    	<sourceDirectory>grails-app </sourceDirectory>
         <pluginManagement />
 
         <plugins>
